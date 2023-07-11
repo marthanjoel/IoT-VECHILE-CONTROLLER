@@ -25,4 +25,4 @@ For efficient management and tracking, the vehicle incorporates remote monitorin
 By combining advanced hardware integration, secure package compartment, collision avoidance technology, and anti-theft measures, the enhanced anti-theft e-commerce delivery vehicle provides a reliable and secure solution for efficient package delivery. Its ability to deter theft attempts, ensure safe transportation, and deliver packages with precision makes it an ideal choice for e-commerce companies focused on customer satisfaction and security.
 
 # BluePrint
-![Arduino_Mega_Connection]()
+![Arduino_Mega_Connection](Images/Arduino_Mega_Connection.png)
