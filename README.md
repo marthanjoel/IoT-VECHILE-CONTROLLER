@@ -26,3 +26,5 @@ By combining advanced hardware integration, secure package compartment, collisio
 
 # BluePrint
 ![Arduino_Mega_Connection](Images/Arduino_Mega_Connection.png)
+
+![ArduinoUno_Connection]()
